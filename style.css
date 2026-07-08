@@ -1,0 +1,11 @@
+/* 地図を画面いっぱいに表示 */
+html,
+body {
+    margin: 0;
+    height: 100%;
+}
+
+#map {
+    width: 100%;
+    height: 100%;
+}

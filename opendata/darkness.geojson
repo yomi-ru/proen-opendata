@@ -74,23 +74,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          33.968492,
-          33.968492
-        ]
-      },
-      "properties": {
-        "ID": 5,
-        "name": "438号寄居エリア",
-        "Lv": 2,
-        "remarks": "街灯ほとんどない",
-        "Link": "https://maps.gsi.go.jp/#18/33.968492/33.968492"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           33.972228,
           134.368988
         ]

@@ -320,7 +320,7 @@
         "ID": 19,
         "name": "神山体育館裏",
         "Lv": 1,
-        "remarks": NaN,
+        "remarks": null,
         "Link": "https://maps.gsi.go.jp/#18/33.9707737158741/134.359608578682"
       }
     },
@@ -354,7 +354,7 @@
         "ID": 21,
         "name": "やまびこ近く",
         "Lv": 2,
-        "remarks": NaN,
+        "remarks": null,
         "Link": "https://maps.gsi.go.jp/#18/33.9679835682393/134.344615756968"
       }
     },
